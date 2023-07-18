@@ -1,6 +1,6 @@
 # Collecting-Operational-Insights-and-Probing-Metric-Fluctuations
 
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-v8.0-purple?style=flat&logo=mysql&logoColor=white&color=purple)   ![Tableau](https://img.shields.io/badge/Tableau-2021.2-FF8200?logo=tableau&logoColor=white)    ![Tableau](https://img.shields.io/badge/Tableau-v2021.2-orange?style=flat&logo=tableau&logoColor=white&color=orange)    [![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-2019-green)](https://www.microsoft.com/en-us/microsoft-365/excel)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-v8.0-purple?style=flat&logo=mysql&logoColor=white&color=purple)   ![Tableau](https://img.shields.io/badge/logo=tableau&logoColor=white)    ![Tableau](https://img.shields.io/badge/Tableau-v2021.2-orange?style=flat&logo=tableau&logoColor=white&color=orange)    [![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-2019-green)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 This repository contains the code and analysis for a project involving two case studies related to operation analytics and metric spike investigation. The project aims to provide data-driven insights and solutions for improving workflows, automation, and cross-functional collaboration.
 
