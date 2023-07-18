@@ -1,7 +1,6 @@
 # Collecting-Operational-Insights-and-Probing-Metric-Fluctuations
 
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-v8.0-purple?style=flat&logo=mysql&logoColor=white&color=purple)   ![Tableau](https://img.shields.io/badge/logo=tableau&logoColor=white)    ![Tableau](https://img.shields.io/badge/Tableau-v2021.2-orange?style=flat&logo=tableau&logoColor=white&color=orange)    [![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-2019-green)](https://www.microsoft.com/en-us/microsoft-365/excel)
-
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-v8.0-purple?style=flat&logo=mysql&logoColor=white&color=purple)    ![Tableau](https://img.shields.io/badge/Tableau-v2021.2-orange?style=flat&logo=tableau&logoColor=white&color=orange)    ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-2019-green?style=flat&logo=tableau&logoColor=white&color=green)
 This repository contains the code and analysis for a project involving two case studies related to operation analytics and metric spike investigation. The project aims to provide data-driven insights and solutions for improving workflows, automation, and cross-functional collaboration.
 
 ## Case Studies
@@ -29,11 +28,11 @@ In this case study, the following metrics were analyzed:
 
 The project utilized the following tech-stack:
 
-- [![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-v8.0-blue)](https://www.mysql.com/products/workbench/) : Used for data analysis, manipulation, and calculations.
+- ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-v8.0-purple?style=flat&logo=mysql&logoColor=white&color=purple) : Used for data analysis, manipulation, and calculations.
   
-- [![Tableau](https://img.shields.io/badge/Tableau-v2021.2-orange)](https://www.tableau.com/): Used for data visualization and creating interactive representations of the analyzed data.
+- ![Tableau](https://img.shields.io/badge/Tableau-v2021.2-orange?style=flat&logo=tableau&logoColor=white&color=orange) : Used for data visualization and creating interactive representations of the analyzed data.
   
-- [![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-2019-green)](https://www.microsoft.com/en-us/microsoft-365/excel): Used for data analysis, including pivot tables and charts.
+- ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-2019-green?style=flat&logo=tableau&logoColor=white&color=green) : Used for data analysis, including pivot tables and charts.
 
 ## Repository Structure
 
