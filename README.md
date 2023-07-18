@@ -30,7 +30,9 @@ In this case study, the following metrics were analyzed:
 The project utilized the following tech-stack:
 
 - [![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-v8.0-blue)](https://www.mysql.com/products/workbench/) : Used for data analysis, manipulation, and calculations.
+  
 - [![Tableau](https://img.shields.io/badge/Tableau-v2021.2-orange)](https://www.tableau.com/): Used for data visualization and creating interactive representations of the analyzed data.
+  
 -[![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-2019-green)](https://www.microsoft.com/en-us/microsoft-365/excel): Used for data analysis, including pivot tables and charts.
 
 ## Repository Structure
