@@ -25,7 +25,7 @@ In this case study, the following metrics were analyzed:
 - Weekly device-wise engagement of users
 - Email engagement of users
 
-## Approach
+## Tech_Stack used:
 
 The project utilized the following tech-stack:
 
@@ -33,15 +33,15 @@ The project utilized the following tech-stack:
   
 - [![Tableau](https://img.shields.io/badge/Tableau-v2021.2-orange)](https://www.tableau.com/): Used for data visualization and creating interactive representations of the analyzed data.
   
--[![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-2019-green)](https://www.microsoft.com/en-us/microsoft-365/excel): Used for data analysis, including pivot tables and charts.
+- [![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-2019-green)](https://www.microsoft.com/en-us/microsoft-365/excel): Used for data analysis, including pivot tables and charts.
 
 ## Repository Structure
 
-- datasets/: Contains the datasets used for analysis.
-- code/: Includes the code files and notebooks for each case study.
-- docs/: Provides documentation on the project methodology and analysis and insights.
-- presentation/: Includes a slide deck summarizing the project's main findings.
-- visualizations/ : Provides the link for the Tableau public visualizations for this project
+- **datasets/**: Contains the datasets used for analysis.
+- **code/**: Includes the code files and notebooks for each case study.
+- **docs/**: Provides documentation on the project methodology and analysis and insights.
+- **presentation/**: Includes a slide deck summarizing the project's main findings.
+- **visualizations/** : Provides the link for the Tableau public visualizations for this project
 
 ## Contributions and Feedback
 
