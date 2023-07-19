@@ -1,4 +1,3 @@
-USE project_3;
 
 ## A. Calculate the number of jobs reviewed per hour per day for November 2020?
 SELECT 
