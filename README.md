@@ -26,7 +26,7 @@ In this case study, the following metrics were analyzed:
 - Weekly device-wise engagement of users
 - Email engagement of users
 
-## Tech_Stack used:
+## Tech_Stack used
 
 The project utilized the following tech-stack:
 
