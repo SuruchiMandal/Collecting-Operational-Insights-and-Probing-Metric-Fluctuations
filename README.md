@@ -45,7 +45,6 @@ The project utilized the following tech-stack:
 - **code/**: Includes the code file for this project.
 - **docs/**: Provides documentation on the project methodology, analysis and insights.
 - **presentation/**: Includes a slide deck summarizing the project's main findings.
-- **visualizations/** : Provides the visualizations for this project
 
 ## Contributions and Feedback
 
